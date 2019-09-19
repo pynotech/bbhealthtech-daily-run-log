@@ -1,0 +1,19 @@
+ARS_Fetch_ClientData Live Job 
+	Start: 
+	End: 
+	Duration: 
+	Count Results:
+		
+
+Import_ARS Live Job
+	Start:
+	End: 
+	Duration:
+	Result: 
+
+Import_AWW Live Job
+	Start: 
+	End: 
+	Duration: 
+	Result: 
+		

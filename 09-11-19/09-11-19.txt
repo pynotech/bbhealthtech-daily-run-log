@@ -1,0 +1,35 @@
+ARS_Fetch_ClientData Live Job 
+	Start: 4:05
+	End: 4:26
+	Duration: 21 mins
+	Count Results:
+		276464	CHARGEDATA
+		115488	DENIALDATA
+		28620	INSURANCEDATA
+		13959	DEMODATA
+		854	SERVICECODEMASTER
+		585	POSTINGCODEMASTER
+		1628742	TXNDATA
+		2282093	LINEDATA
+
+	Note:
+		The POSTINGCODEMASTER increased.
+
+
+Import_ARS Live Job
+	Start: 5:15
+	End: 5:50
+	Duration: 35 mins
+	Result:
+		Success
+
+Import_AWW Live Job
+	Start: 5:51
+	End: 5:53
+	Duration: 2 mins
+	Result: 
+		Success
+
+
+
+
